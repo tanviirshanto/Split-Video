@@ -1,0 +1,8 @@
+1.Intro.mp4 00:00:00 00:00:30 
+2.How_to_get_API_keys.mp4 00:00:30 00:02:30
+3.Creating_the_application_and_installing_packages.mp4 00:02:30 00:05:25 
+4.Building_city_search_component.mp4 00:05:25 00:23:48 
+5.Building_current_weather_component.mp4 00:23:48 00:43:23 
+6.Fetching_and_mapping_data_from_weatherAPI.mp4 00:43:23 01:01:35 
+7.Building_weather_forecas_component.mp4 01:01:35 01:34:20 
+8.Outro.mp4 01:34:20 01:35:58
